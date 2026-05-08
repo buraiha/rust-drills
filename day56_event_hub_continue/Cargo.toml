@@ -1,0 +1,8 @@
+[package]
+name = "day56_event_hub_continue"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+day50_event_hub = { path = "../day50_event_hub" }
+
